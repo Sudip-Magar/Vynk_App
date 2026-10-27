@@ -12,6 +12,10 @@ body{
     background-color: rgb(221, 221, 221);
 }
 
+[x-cloak]{
+    display: none;
+}
+
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';
 

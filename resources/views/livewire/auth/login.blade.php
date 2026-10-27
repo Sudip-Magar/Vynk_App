@@ -1,3 +1,3 @@
 <div>
-    {{-- Because you are alive, everything is possible. - Thich Nhat Hanh --}}
+    <a href="{{ route('register') }}">Register</a>
 </div>

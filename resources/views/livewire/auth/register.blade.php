@@ -74,7 +74,7 @@
                 </div>
             </div>
             <x-button spinner="registerUser" type="submit"
-                class="block bg-white/80 text-black w-full text-center mt-4 cursor-pointer rounded-sm hover:bg-white  hover:shadow-md transition-all duration-150">Register</x-button>
+                class="block bg-white/80 text-black w-full text-center mt-4 cursor-pointer rounded-sm hover:bg-white  hover:shadow-md transition-all duration-150 border-white/30">Register</x-button>
 
 
         </form>

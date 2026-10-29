@@ -40,7 +40,7 @@
         </label>
 
         <x-button spinner="login" type="submit"
-            class="block bg-white/80 text-black w-full text-center mt-4 cursor-pointer rounded-sm hover:bg-white  hover:shadow-md transition-all duration-150">Login</x-button>
+            class="block bg-white/80 text-black w-full text-center mt-4 cursor-pointer rounded-sm hover:bg-white  hover:shadow-md transition-all duration-150 border border-white/30">Login</x-button>
     </form>
 
     <div class="my-3 divider before:bg-white/40 after:bg-white/40">Or</div>

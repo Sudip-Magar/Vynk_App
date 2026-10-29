@@ -8,10 +8,6 @@
 .app_log{
     font-family: cursive;
 }
-body{
-    background-color: rgb(221, 221, 221);
-}
-
 [x-cloak]{
     display: none;
 }
